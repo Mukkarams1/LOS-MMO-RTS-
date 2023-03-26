@@ -1,0 +1,213 @@
+[
+  {
+    "_id": "12312321",
+    "title": "generaltitle",
+    "shortDescription": "generaldescription",
+    "description": "generaldescription",
+    "chapters": [
+      {
+        "_id": 20,
+        "chapterNumber": 1,
+        "chapterTitle": "20",
+        "chapterDescription": "20",
+        "chapterShortDescription": "20",
+        "chapterGift": {
+          "giftTitle": "50",
+          "giftDescription": "100",
+          "food": 50,
+          "wood": 100,
+          "metal": 50,
+          "gunPowder": 100,
+          "diamond": 20,
+          "gold": 20
+        },
+        "Chaptertasks": [
+          {
+            "_id": 20,
+            "taskNumber": "1",
+            "chapterTitle": "Create war building",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 150,
+              "wood": 300,
+              "metal": 20,
+              "gunPowder": 50,
+              "diamond": 10,
+              "gold": 10
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "2",
+            "chapterTitle": "Gather 10,000 wood",
+            "isCompleted": true,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 80,
+              "wood": 60,
+              "metal": 20,
+              "gunPowder": 10,
+              "diamond": 20,
+              "gold": 20
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "3",
+            "chapterTitle": "Upgrade wonder to level 2",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 50,
+              "wood": 100,
+              "metal": 50,
+              "gunPowder": 100,
+              "diamond": 20,
+              "gold": 20
+            }
+          }
+        ]
+      },
+      {
+        "_id": 20,
+        "chapterNumber": 2,
+        "chapterTitle": "20",
+        "chapterDescription": "20",
+        "chapterShortDescription": "20",
+        "chapterGift": {
+          "giftTitle": "50",
+          "giftDescription": "100",
+          "food": 50,
+          "wood": 100,
+          "metal": 50,
+          "gunPowder": 100,
+          "diamond": 20,
+          "gold": 20
+        },
+
+        "Chaptertasks": [
+          {
+            "_id": 20,
+            "taskNumber": "1",
+            "chapterTitle": "Create war building",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 50,
+              "wood": 100,
+              "metal": 50,
+              "gunPowder": 100,
+              "diamond": 20,
+              "gold": 20
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "2",
+            "chapterTitle": "Gather 10,000 wood",
+            "isCompleted": true,
+            "taskGifts": {
+              "giftTitle": 12,
+              "giftDescription": 100,
+              "food": 100,
+              "wood": 10,
+              "metal": 50,
+              "gunPowder": 25,
+              "diamond": 5,
+              "gold": 5
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "3",
+            "chapterTitle": "Upgrade wonder to level 2",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 30,
+              "wood": 50,
+              "metal": 25,
+              "gunPowder": 60,
+              "diamond": 10,
+              "gold": 5
+            }
+          }
+        ]
+      },
+      {
+        "_id": 20,
+        "chapterNumber": 3,
+        "chapterTitle": "20",
+        "chapterDescription": "20",
+        "chapterShortDescription": "20",
+        "chapterGift": {
+          "giftTitle": "50",
+          "giftDescription": "100",
+          "food": 50,
+          "wood": 100,
+          "metal": 50,
+          "gunPowder": 100,
+          "diamond": 20,
+          "gold": 20
+        },
+
+        "Chaptertasks": [
+          {
+            "_id": 20,
+            "taskNumber": "1",
+            "chapterTitle": "Create war building",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 50,
+              "wood": 100,
+              "metal": 50,
+              "gunPowder": 100,
+              "diamond": 20,
+              "gold": 20
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "2",
+            "chapterTitle": "Gather 10,000 wood",
+            "isCompleted": true,
+            "taskGifts": {
+              "giftTitle": 12,
+              "giftDescription": 100,
+              "food": 100,
+              "wood": 10,
+              "metal": 50,
+              "gunPowder": 25,
+              "diamond": 5,
+              "gold": 5
+            }
+          },
+          {
+            "_id": 20,
+            "taskNumber": "3",
+            "chapterTitle": "Upgrade wonder to level 2",
+            "isCompleted": false,
+            "taskGifts": {
+              "giftTitle": 50,
+              "giftDescription": 100,
+              "food": 30,
+              "wood": 50,
+              "metal": 25,
+              "gunPowder": 60,
+              "diamond": 10,
+              "gold": 5
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

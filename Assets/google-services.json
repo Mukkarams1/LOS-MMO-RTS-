@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "79513851705",
+    "project_id": "legends-of-samurai",
+    "storage_bucket": "legends-of-samurai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79513851705:android:ae9f1d3ad1492854eefae8",
+        "android_client_info": {
+          "package_name": "com.legendsofsamurai.jp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79513851705-ecjb3lfpceuul0m8hskblakmlouv1kkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEzT2CMy4IfH3Dpugyqfl0O6Y31Fg1Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79513851705-ecjb3lfpceuul0m8hskblakmlouv1kkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79513851705-3e2ipj04nb7esiicen41fi1824dgddvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.legendsofsamurai.jp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

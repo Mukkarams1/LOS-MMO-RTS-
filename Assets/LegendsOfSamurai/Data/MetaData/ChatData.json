@@ -1,0 +1,54 @@
+{
+  "clanChatting": [
+    {
+      "_id": "123",
+      "fromName": "Himari",
+      "isMyself": true,
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "fromName": "Sota",
+      "isMyself": false,
+      "avatar": "imageURL",
+      "message": "How Are You",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "fromName": "Himari",
+      "isMyself": true,
+      "avatar": "imageURL",
+      "message": "Good",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    }
+  ],
+  "cityChatting": [
+    {
+      "_id": "123",
+      "fromName": "Sota",
+      "isMyself": false,
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "fromName": "Sota",
+      "isMyself": false,
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "fromName": "Himari",
+      "isMyself": true,
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    }
+  ]
+}

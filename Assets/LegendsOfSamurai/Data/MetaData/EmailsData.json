@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "123",
+    "userEmail": "haruki@gmail.com",
+    "from": "test",
+    "to": "test1",
+    "subject": "Welcome to the game",
+    "description": "Hope you're well. I'm contacting you because I have a question about the new Game tracking system",
+    "link": "",
+    "isRead": false,
+    "createdAt": "2022-09-15T19:04:38.329Z"
+  },
+  {
+    "_id": "123",
+    "from": "test",
+    "to": "test1",
+    "subject": "New message",
+    "description": "I hope your new role is going well",
+    "link": "",
+    "isRead": false,
+    "createdAt": "2022-01-22T19:99:38.999d"
+  },
+  {
+    "_id": "123",
+    "from": "test",
+    "to": "test1",
+    "subject": "New message",
+    "description": "Thank you for hosting the meeting today",
+    "link": "I have a link",
+    "isRead": true,
+    "createdAt": "2022-10-15T55:09:05.454c"
+  }
+]

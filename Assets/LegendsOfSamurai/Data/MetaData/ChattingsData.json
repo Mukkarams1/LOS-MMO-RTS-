@@ -1,0 +1,48 @@
+{
+  "clanChatting": [
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    }
+  ],
+  "cityChatting": [
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    },
+    {
+      "_id": "123",
+      "from": "name",
+      "avatar": "imageURL",
+      "message": "Welcome to the game",
+      "createdAt": "2022-09-15T19:04:38.329Z"
+    }
+  ]
+}

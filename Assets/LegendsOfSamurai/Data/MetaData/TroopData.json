@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "Fighter",
+    "title": "Hadi",
+    "shortDescription": "test1",
+    "description": "Best for Long Range",
+    "unlockLevel": 10,
+    "powerPerWarrior": 20,
+    "costPerUnitData": {
+      "food": 20,
+      "wood": 20,
+      "metal": 20,
+      "gunPowder": 20,
+      "diamond": 20,
+      "gold": 20,
+      "time": 600
+    }
+  },
+  {
+    "_id": "Fighter",
+    "title": "Mukkaram",
+    "shortDescription": "test1",
+    "description": "Best for Short Range",
+    "unlockLevel": 10,
+    "powerPerWarrior": 20,
+    "costPerUnitData": {
+      "food": 50,
+      "wood": 100,
+      "metal": 50,
+      "gunPowder": 100,
+      "diamond": 20,
+      "gold": 20,
+      "time": 1200
+    }
+  },
+  {
+    "_id": "Fighter",
+    "title": "Waqar",
+    "shortDescription": "test1",
+    "description": "Best for Mid Range",
+    "unlockLevel": 10,
+    "powerPerWarrior": 20,
+    "costPerUnitData": {
+      "food": 100,
+      "wood": 20,
+      "metal": 30,
+      "gunPowder": 40,
+      "diamond": 20,
+      "gold": 20,
+      "time": 1200
+    }
+  },
+  {
+    "_id": "Fighter",
+    "title": "Abdul",
+    "shortDescription": "test1",
+    "description": "Best for All Ranges",
+    "unlockLevel": 10,
+    "powerPerWarrior": 20,
+    "costPerUnitData": {
+      "food": 1,
+      "wood": 80,
+      "metal": 50,
+      "gunPowder": 20,
+      "diamond": 20,
+      "gold": 20,
+      "time": 1200
+    }
+  },
+  {
+    "_id": "Fighter",
+    "title": "Momo",
+    "shortDescription": "test1",
+    "description": "Best for Nothing",
+    "unlockLevel": 10,
+    "powerPerWarrior": 20,
+    "costPerUnitData": {
+      "food": 30,
+      "wood": 10,
+      "metal": 100,
+      "gunPowder": 20,
+      "diamond": 20,
+      "gold": 20,
+      "time": 1200
+    }
+  }
+]

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">79513851705</string>
+  <string name="google_storage_bucket" translatable="false">legends-of-samurai.appspot.com</string>
+  <string name="project_id" translatable="false">legends-of-samurai</string>
+  <string name="google_api_key" translatable="false">AIzaSyCCEzT2CMy4IfH3Dpugyqfl0O6Y31Fg1Kw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCEzT2CMy4IfH3Dpugyqfl0O6Y31Fg1Kw</string>
+  <string name="google_app_id" translatable="false">1:79513851705:android:ae9f1d3ad1492854eefae8</string>
+  <string name="default_web_client_id" translatable="false">79513851705-ecjb3lfpceuul0m8hskblakmlouv1kkf.apps.googleusercontent.com</string>
+</resources>

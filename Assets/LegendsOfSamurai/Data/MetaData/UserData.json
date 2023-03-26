@@ -1,0 +1,425 @@
+[
+  {
+    "id": "123",
+    "firstName": "Haruki",
+    "lastName": "Himari",
+    "email": "himari@gmail.com",
+    "phoneNumber": "11231321",
+    "guestName": "abc",
+    "nickName": "abc",
+    "timeZone": "gmt+5",
+    "cityId": 20,
+    "isPremium": false,
+    "isVip": true,
+    "isGuest": true,
+    "coordinates": 20,
+    "overallPower": 20,
+    "twitterKey": "123",
+    "twitterFollowers": "123",
+    "level": 1,
+    "recruitmentInProgress": 1,
+    "unreadEmails": 3,
+    "buildingInProgress": 1,
+    "mainInventory": {
+      "food": 200,
+      "wood": 100,
+      "metal": 55,
+      "gunPowder": 600,
+      "diamond": 6,
+      "gold": 50
+    },
+    "emails": [
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "Welcome to the game",
+        "description": "Hope you're well. I'm contacting you because I have a question about the new Game tracking system",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-09-15T19:04:38.329Z"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "I hope your new role is going well",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-01-22T19:99:38.999d"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "Thank you for hosting the meeting today",
+        "link": "I have a link",
+        "isRead": true,
+        "createdAt": "2022-10-15T55:09:05.454c"
+      }
+    ],
+    "warehouseInventory": [
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Food bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Food bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Food bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Food bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "imagePath": "resourcespath",
+        "quantity": 20,
+        "description": "description"
+      }
+    ],
+    "warriors": [
+      {
+        "_id": "a",
+        "warriorId": "123",
+        "quantity": 20
+      },
+      {
+        "_id": "b",
+        "warriorId": "456",
+        "quantity": 20
+      }
+    ],
+    "buildings": [
+      {
+        "_id": "Farm",
+        "type": 1,
+        "buildingId": "Far",
+        "currentLevel": 3,
+        "coordinates": 10
+      },
+      {
+        "_id": "Tavern",
+        "type": 2,
+        "buildingId": "123",
+        "currentLevel": 3,
+        "coordinates": 80
+      },
+      {
+        "_id": "War",
+        "type": 4,
+        "buildingId": "Far",
+        "currentLevel": 3,
+        "coordinates": 31
+      }
+
+    ]
+  },
+  {
+    "id": "123",
+    "firstName": "Minato",
+    "lastName": "Himari",
+    "email": "minato@gmail.com",
+    "phoneNumber": "11231321",
+    "guestName": "abc",
+    "nickName": "abc",
+    "timeZone": "gmt+5",
+    "cityId": 20,
+    "isPremium": false,
+    "isVip": true,
+    "isGuest": true,
+    "coordinates": 20,
+    "overallPower": 20,
+    "twitterKey": "123",
+    "twitterFollowers": "123",
+    "level": 1,
+    "recruitmentInProgress": 1,
+    "unreadEmails": 3,
+    "buildingInProgress": 1,
+    "mainInventory": {
+      "food": 200,
+      "wood": 100,
+      "metal": 55,
+      "gunPowder": 600,
+      "diamond": 6,
+      "gold": 50
+    },
+    "emails": [
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "Welcome to the game",
+        "description": "Hope you're well. I'm contacting you because I have a question about the new Game tracking system",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-09-15T19:04:38.329Z"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "I hope your new role is going well",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-01-22T19:99:38.999d"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "Thank you for hosting the meeting today",
+        "link": "I have a link",
+        "isRead": true,
+        "createdAt": "2022-10-15T55:09:05.454c"
+      }
+    ],
+    "warehouseInventory": [
+      {
+        "title": "Wood bundle x 500",
+        "type": 1,
+        "imagePath": "resourcespath",
+        "quantity": 3,
+        "description": "Wood resource"
+      },
+      {
+        "title": "Food bundle x 500",
+        "type": 2,
+        "imagePath": "resourcespath",
+        "quantity": 10,
+        "description": "Lots of food"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "type": 3,
+        "imagePath": "resourcespath",
+        "quantity": 53,
+        "description": "500x Wood bundles"
+      }
+    ],
+    "warriors": [
+      {
+        "_id": "a",
+        "warriorId": "123",
+        "quantity": 20
+      },
+      {
+        "_id": "b",
+        "warriorId": "456",
+        "quantity": 20
+      }
+    ],
+    "buildings": [
+      {
+        "_id": "Farm",
+        "type": 1,
+        "buildingId": "Far",
+        "currentLevel": 3,
+        "coordinates": 10
+      },
+      {
+        "_id": "Tavern",
+        "type": 2,
+        "buildingId": "123",
+        "currentLevel": 3,
+        "coordinates": 80
+      },
+      {
+        "_id": "War",
+        "type": 4,
+        "buildingId": "Far",
+        "currentLevel": 3,
+        "coordinates": 31
+      }
+
+    ]
+  },
+  {
+    "id": "123",
+    "firstName": "Minato",
+    "lastName": "Himari",
+    "email": "mei@gmail.com",
+    "phoneNumber": "11231321",
+    "guestName": "abc",
+    "nickName": "abc",
+    "timeZone": "gmt+5",
+    "cityId": 20,
+    "isPremium": false,
+    "isVip": true,
+    "isGuest": true,
+    "coordinates": 20,
+    "overallPower": 20,
+    "twitterKey": "123",
+    "twitterFollowers": "123",
+    "level": 1,
+    "recruitmentInProgress": 1,
+    "unreadEmails": 3,
+    "buildingInProgress": 1,
+    "mainInventory": {
+      "food": 200,
+      "wood": 100,
+      "metal": 55,
+      "gunPowder": 600,
+      "diamond": 6,
+      "gold": 50
+    },
+    "emails": [
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "Welcome to the game",
+        "description": "Hope you're well. I'm contacting you because I have a question about the new Game tracking system",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-09-15T19:04:38.329Z"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "I hope your new role is going well",
+        "link": "",
+        "isRead": false,
+        "createdAt": "2022-01-22T19:99:38.999d"
+      },
+      {
+        "_id": "123",
+        "from": "test",
+        "to": "test1",
+        "subject": "New message",
+        "description": "Thank you for hosting the meeting today",
+        "link": "I have a link",
+        "isRead": true,
+        "createdAt": "2022-10-15T55:09:05.454c"
+      }
+    ],
+    "warehouseInventory": [
+      {
+        "title": "Wood bundle x 500",
+        "type": 1,
+        "imagePath": "resourcespath",
+        "quantity": 3,
+        "description": "Wood resource"
+      },
+      {
+        "title": "Food bundle x 500",
+        "type": 2,
+        "imagePath": "resourcespath",
+        "quantity": 10,
+        "description": "Lots of food"
+      },
+      {
+        "title": "Wood bundle x 500",
+        "type": 3,
+        "imagePath": "resourcespath",
+        "quantity": 53,
+        "description": "500x Wood bundles"
+      }
+    ],
+    "warriors": [
+      {
+        "_id": "a",
+        "warriorId": "123",
+        "quantity": 20
+      },
+      {
+        "_id": "b",
+        "warriorId": "456",
+        "quantity": 20
+      }
+    ],
+    "buildings": [
+      {
+        "_id": "Farm",
+        "type": 1,
+        "buildingId": "Far",
+        "currentLevel": 3,
+        "coordinates": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "_id": "123",
+    "title": "Wood Machine",
+    "shortDescription": "Wood Cutter",
+    "image": "WoodMachine",
+    "description": "test2",
+    "category": 1,
+    "unlockLevel": 20,
+    "xSize": 2,
+    "ySize": 2,
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 2,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 3,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 4,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  },
+  {
+    "_id": "345",
+    "title": "Metal Machine",
+    "shortDescription": "Produces Matel",
+    "image": "MetalMachine",
+    "description": "test2",
+    "category": 1,
+    "unlockLevel": 20,
+    "xSize": "2",
+    "ySize": "2",
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "q": null,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  },
+  {
+    "_id": "345",
+    "title": "Cannon",
+    "shortDescription": "Fire Grapeshots on Enemies",
+    "image": "Cannon",
+    "description": "test2",
+    "category": 2,
+    "unlockLevel": 20,
+    "xSize": "2",
+    "ySize": "2",
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "q": null,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  },
+  {
+    "_id": "345",
+    "title": "Machine Gun",
+    "shortDescription": "Heavy FireRate",
+    "image": "Castle",
+    "description": "test2",
+    "category": 2,
+    "unlockLevel": 20,
+
+    "xSize": "2",
+    "ySize": "2",
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "q": null,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  },
+  {
+    "_id": "345",
+    "title": "Wood Walls",
+    "shortDescription": "Low defence againts enemy attack",
+    "image": "Farm",
+    "description": "test2",
+    "category": 3,
+    "unlockLevel": 20,
+    "xSize": "2",
+    "ySize": "2",
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "q": null,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  },
+  {
+    "_id": "345",
+    "title": "Metal Walls",
+    "shortDescription": "Low defence againts enemy attack",
+    "image": "MetalWalls",
+    "description": "test2",
+    "category": 3,
+    "unlockLevel": 20,
+    "xSize": "2",
+    "ySize": "2",
+    "maxLimit": 20,
+    "costPerLevel": [
+      {
+        "_id": "a",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "b",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      },
+      {
+        "_id": "c",
+        "levelNumber": 1,
+        "food": 20,
+        "wood": 20,
+        "metal": 20,
+        "gunPowder": 20,
+        "diamond": 20,
+        "gold": 20,
+        "time": 600,
+        "yieldPerHour": 600,
+        "power": 600
+      }
+    ]
+  }
+]
